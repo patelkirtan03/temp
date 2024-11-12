@@ -4,3 +4,5 @@ const port = 5600
 app.listen(port, () => {
     console.log('Server listening on 5600')
 });
+
+console.log('hi')
